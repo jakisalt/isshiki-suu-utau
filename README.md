@@ -2,6 +2,16 @@
 
 ![suucard](https://github.com/user-attachments/assets/9ca317a7-7d49-4331-a648-212a9deb823c)
 
+_``Isshiki Suu`` is a masculine Japanese voice library for the free singing synthesizer UTAU/OpenUtau._
+
+**Voice, configuration and character design & illustration by jakisalt ★ / ジャキソルト★**
+
+## Download
+
+See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)\
+**Latest version:** v1.0.0
+
+
 ## Sample
 
 
@@ -39,3 +49,8 @@ Despite his talent, Suu cannot make a living from his music and has to work as a
 ### Ending Sounds
 ## Terms of Use
 ## Contact
+
+If you wish to report any issues or feedback, please reach me out on the following sites:
+
+- **X/Twitter:** https://x.com/jakisalt/
+- **E-mail:** jaki.soruto@gmail.com
