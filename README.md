@@ -4,7 +4,11 @@
 
 ## Sample
 
-https://github.com/user-attachments/assets/27bcefb0-346c-4ef7-85b0-3b4aac0cbbb4
+
+
+https://github.com/user-attachments/assets/25b6d9b1-0499-4396-a558-5b6b482cba46
+
+
 
 [Watch full demo reel here](https://youtu.be/bbm-lpvnL3g?si=ypWs1lPDtMmq4MZc)
 
