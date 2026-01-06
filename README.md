@@ -9,7 +9,7 @@ _``Isshiki Suu`` is a masculine Japanese voice library for the free singing synt
 ## Download
 
 See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)\
-**Latest version:** v1.0.0
+**Latest version:** [v1.0.0](https://github.com/jakisalt/isshiki-suu-utau/releases/tag/v1.0.0)
 
 
 ## Sample
@@ -19,12 +19,12 @@ See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)\
 https://github.com/user-attachments/assets/25b6d9b1-0499-4396-a558-5b6b482cba46
 
 
-
 [Watch full demo reel here](https://youtu.be/bbm-lpvnL3g?si=ypWs1lPDtMmq4MZc)
 
 ## Character Profile
 
 ![suu 5](https://github.com/user-attachments/assets/c5b50567-4420-4082-9d74-6399bb6f18d0)
+
 
 
 - **Western Name:** Suu Isshiki
@@ -43,11 +43,38 @@ Despite his talent, Suu cannot make a living from his music and has to work as a
 
 ## Technical Details
 
+**Pitchsets:** F#3(↓) and B3(↑)\
+_*This voicebank uses the "prefix.map" and "character.yaml" files to automatically play certain pitchsets in specific tones; if you want to use a sample outside of its intended tone (e.g.: a sample from the F#3 pitchset in a D4 note), input its full alias on the note._
 
+**Recommended engine:** moresampler.exe\
+_*Some engines may not render breaths and ending sounds correctly. You may achieve better results by importing the breath samples into a DAW instead of using them in the editor._
 
-### Extras
-### Ending Sounds
-## Terms of Use
+## Extras
+
+### **Breaths samples**:
+
+- **br01:** short inhalation
+- **br02:** long inhalation between teeth
+- **br03:** short inhalation 2
+- **br04:** long inhalation
+- **br05:** short exhalation
+- **br06:** short exhalation 2
+-** br07:** long exhalation
+- **br08:** long exhalation (imitating a blowing sound)
+- **br09:** long inhalation between teeth 2
+
+### **Ending sounds:**
+
+_*In UTAU, you can use these phonemes by opening the Sound List (Shift + Right Click), or manually entering its alias into a note._\
+_*In OpenUtau, you can enter only the suffix of a phoneme (e.g.: 'R' instead of 'a R'), or simply enter its full alias._
+#### **Breath at the end of a sentence:**
+
+- 「a R」,「a R」,「a息 R」,「a_R」,「a息」,「ahh」,「a 息」,「a_hh」	
+
+#### **Glottal stop at the end of a sentence:**
+
+- 「あ っ」,「あ ・」,「a っ」,「a ・」,「あ -」,「a -」
+
 ## Contact
 
 If you wish to report any issues or feedback, please reach me out on the following sites:
