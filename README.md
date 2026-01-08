@@ -1,19 +1,21 @@
 # Isshiki Suu / 一色スウ
 
-![suucard](https://github.com/user-attachments/assets/9ca317a7-7d49-4331-a648-212a9deb823c)
+Isshiki Suu is a masculine Japanese voice library for the free singing voice synthesizers UTAU & [OpenUtau](https://github.com/stakira/OpenUtau).
 
-Isshiki Suu is a masculine Japanese voice library for the free singing voice synthesizers UTAU & OpenUtau.
+![suucard](https://github.com/user-attachments/assets/9ca317a7-7d49-4331-a648-212a9deb823c)
 
 ## Download
 
-See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)\
-**Latest version:** [v1.0.0](https://github.com/jakisalt/isshiki-suu-utau/releases/tag/v1.0.0)
+See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)
+- **Latest version:** [v1.0.0](https://github.com/jakisalt/isshiki-suu-utau/releases/tag/v1.0.0) | [BowlRoll mirror](https://bowlroll.net/file/337989)
 
 ## Installation 
 
 ### UTAU
 
 Extract the .zip file and copy the uncompressed folder to UTAU's default voicebank directory: ``C:\Windows\Program Files (x86)\UTAU\voice`` 
+
+![install](https://github.com/user-attachments/assets/cd31e1f1-0c9a-46c1-b2a9-c0202f2e9dc5)
 
 ### OpenUtau
 
