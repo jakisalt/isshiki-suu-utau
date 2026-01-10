@@ -9,6 +9,8 @@ Isshiki Suu is a masculine Japanese voice library for the free singing voice syn
 
 https://github.com/user-attachments/assets/25b6d9b1-0499-4396-a558-5b6b482cba46
 
+[Watch full demo reel here](https://youtu.be/bbm-lpvnL3g?si=ypWs1lPDtMmq4MZc)
+
 ## Download
 
 See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)
@@ -36,11 +38,6 @@ Click **"Install"**.
 
 ![Captura de pantalla_20260107_181333](https://github.com/user-attachments/assets/cdb3bf36-6b4c-40bf-870a-e7ce48453a67)
 
-
-
-
-
-[Watch full demo reel here](https://youtu.be/bbm-lpvnL3g?si=ypWs1lPDtMmq4MZc)
 
 ## Character Profile
 
