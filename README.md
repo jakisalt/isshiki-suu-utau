@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/25b6d9b1-0499-4396-a558-5b6b482cba46
 ## Download
 
 See [Releases.](https://github.com/jakisalt/isshiki-suu-utau/releases)
-- **Latest version:** [v1.0.0](https://github.com/jakisalt/isshiki-suu-utau/releases/tag/v1.0.0) | [BowlRoll mirror](https://bowlroll.net/file/337989)
+- **Latest version:** [v1.1.0](https://github.com/jakisalt/isshiki-suu-utau/releases/tag/v1.1.0) | [BowlRoll mirror](https://bowlroll.net/file/337989)
 
 ## Installation 
 
@@ -77,7 +77,7 @@ _*Some engines may not render breaths and ending sounds correctly. You may achie
 - **br04:** long inhalation
 - **br05:** short exhalation
 - **br06:** short exhalation 2
--** br07:** long exhalation
+- **br07:** long exhalation
 - **br08:** long exhalation (imitating a blowing sound)
 - **br09:** long inhalation between teeth 2
 
